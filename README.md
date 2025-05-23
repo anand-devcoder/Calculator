@@ -35,13 +35,10 @@ Error handling for invalid inputs (e.g., division by zero).
 📐 Layout Overview:
 <br>
 A display screen to show input and results.
-
 <br>
 A grid of buttons for numbers and operations.
-
 <br>
 Optional light/dark mode toggle (for enhancement).
-
 <br>
 <br>
 ⚙️ How It Works:
