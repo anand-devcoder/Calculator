@@ -48,39 +48,29 @@ User clicks on buttons to input numbers and operations.
 Input is shown in the display area.
 <br>
 When the equal button is pressed, JavaScript evaluates the expression.
-
 <br>
 The result is shown instantly.
-
 <br>
 Clear button resets the calculator for a new operation.
-
 <br>
 <br>
 🧩 Enhancement Ideas (Optional):
 <br>
 Keyboard support (press keys instead of clicking).
-
 <br>
 Advanced functions: square root, percentage, memory (M+, M−), etc.
-
 <br>
 Dark mode toggle.
-
 <br>
 Animations or transition effects for UI.
-
 <br>
 <br>
 📦 Project Outcome:
 <br>
 By completing this project, you'll understand how to:
-
 <br>
 Use HTML for page structure.
-
 <br>
 Style with CSS for UI design.
-
 <br>
 Apply JavaScript to control logic, DOM manipulation, and events.
