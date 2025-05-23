@@ -44,10 +44,8 @@ Optional light/dark mode toggle (for enhancement).
 ⚙️ How It Works:
 <br>
 User clicks on buttons to input numbers and operations.
-
 <br>
 Input is shown in the display area.
-
 <br>
 When the equal button is pressed, JavaScript evaluates the expression.
 
